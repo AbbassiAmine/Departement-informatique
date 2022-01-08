@@ -1,2 +1,2 @@
 # Departement-informatique
-Spring boot / Angular 
+Spring boot 
